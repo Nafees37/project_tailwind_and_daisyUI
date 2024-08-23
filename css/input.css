@@ -28,6 +28,13 @@
 } 
 }
 
+@media screen and (max-width:500px){
+
+  a.btn.bg-\[\#ABEF5F\].hover\:bg-\[\#ABEF5F\].text-base.text-\[\#212121\].font-black {
+    width: 100%;
+} 
+}
+
 
 
 
