@@ -16,6 +16,12 @@
   outline: none;
 }
 
+.discuss{
+  background-image: url("../assets/images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media screen and (max-width:767px){
   .border-solid.border-2.rounded.p-4.lg\:hidden.md\:col-span-3 {
     display: none;
