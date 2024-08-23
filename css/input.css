@@ -16,6 +16,11 @@
   outline: none;
 }
 
+@media screen and (max-width:767px){
+  .border-solid.border-2.rounded.p-4.lg\:hidden.md\:col-span-3 {
+    display: none;
+} 
+}
 
 
 
